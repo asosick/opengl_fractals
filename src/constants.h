@@ -1,0 +1,11 @@
+//
+// Created by August Sosick on 2022-09-15.
+//
+
+#ifndef INC_453_SKELETON_CONSTANTS_H
+#define INC_453_SKELETON_CONSTANTS_H
+
+#define RIGHT_ANGLE_RAD 0.785398
+#define SIXITY_DEG_RAD 1.0472
+
+#endif //INC_453_SKELETON_CONSTANTS_H
