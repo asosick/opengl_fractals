@@ -35,3 +35,15 @@ sudo apt-get install xorg-dev libglu1-mesa-dev
 That fixed my issue
 
 ## Photos
+
+### Dragon Curve
+![image](https://user-images.githubusercontent.com/57464533/198526639-a3a34ebd-958e-480b-9513-463ba08a2ee4.png)
+
+### Koch Snowflake
+![image](https://user-images.githubusercontent.com/57464533/198526698-64b77591-816a-4a5d-ab48-62e19e3a7d42.png)
+
+### Uniform Mass Triangle
+![image](https://user-images.githubusercontent.com/57464533/198526742-0beef434-1fc8-43a8-841f-da230af6570e.png)
+
+### Sierpinski Triangle
+![image](https://user-images.githubusercontent.com/57464533/198526800-648a5ddc-6f74-4b83-bf63-d3bd2aa03b11.png)
